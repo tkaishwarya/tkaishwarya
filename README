@@ -1,20 +1,44 @@
-👋 Hi, I'm Aishwarya Trickangode Kaliyamardhanan, an experienced Full-Stack Software Developer specializing in DevOps and Cloud Technologies (AWS, Azure, GCP). Currently pursuing my Master of Science in Computer and Information Sciences at the University of Florida.
+👋 Hi, I'm Aishwarya Trickangode Kaliyamardhanan, a passionate and experienced Full-Stack Software Developer with a strong background in DevOps and Cloud Technologies (AWS, Azure, GCP). I'm currently pursuing a Master of Science in Computer and Information Sciences at the University of Florida.
 
-🚀 Skills: Python, C++, Java, SQL, Bash, JavaScript, React.js, Django, Flask, Node.js, AWS (EC2, S3, Spark, Glue, Airflow), Google Cloud, Microsoft Azure, Docker, Kubernetes, Jenkins, Git/GitHub.
+🚀 Skills and Technologies
+Programming Languages: Python, C++, Java, SQL, Bash, JavaScript
+Frameworks: Django, Flask, Node.js, React.js, Spark, Airflow
+Web Services: GraphQL, REST, SOAP, Stripe API
+Database Management: MySQL, PostgreSQL, ElasticSearch
+Platforms: Linux, Windows, AWS (EC2, S3, Spark, Glue, Airflow), Google Cloud, Microsoft Azure
+CI/CD & Version Control: Jenkins, Git/GitHub
+Tools: Kubernetes, Docker, Nginx, Swagger, Vim, Eclipse, VSCode, IntelliJ IDEA
 
-🔭 Current Projects: Working on advanced AI applications, cloud-native solutions, and scalable data processing pipelines. Check out my work on GitHub.
+🔭 Current Projects
+Data Processing Pipeline on AWS: Developing a scalable pipeline using Python, AWS Spark, and Airflow, with robust database solutions using both SQL and NoSQL.
+API Development for Data Analytics Platform: Engineering APIs using Python and integrating AWS services for enhanced scalability.
+Cloud-Native Application for E-commerce Analytics: Creating a real-time analytics application using React and Node.js, with deployment handled by Kubernetes and Docker.
+🌟 Notable Contributions
+Upview.ai: Developed a full-stack application with React and Flask on AWS EC2, optimized with Docker and Kubernetes. Integrated secure authentication using Google OAuth and Stripe API.
+Fire Neural Network: Enhanced data ingestion pipelines using Python and Django, migrated systems to PostgreSQL on Azure, and implemented a monitoring solution using Golang.
+SenseHQ: Spearheaded enterprise software development, optimized API services, and led data synchronization projects using Python, SQL, and AWS.
+FactSet: Optimized backend services with ElasticSearch and Redis, directed cloud migration projects, and improved frontend features with TypeScript.
+💼 Professional Experience
+Graduate Research Assistant | University of Florida
 
-🌟 Notable Contributions:
+Developed a web application for processing large-scale field images and implemented an automated email notification system.
+Worked on data augmentation techniques for human speech synthesis using GANs.
+Software Development Engineer Intern | Upview.ai
 
-Developed full-stack applications with React and Flask, optimizing deployments using Docker and Kubernetes.
-Enhanced data ingestion pipelines and migrated legacy systems to cloud environments.
-Engineered API interfaces for data analytics platforms and implemented observability features for e-commerce analytics.
-💼 Work Experience:
+Enhanced YouTube visibility through advanced SEO techniques and optimized processes for efficiency gains.
+SDE Intern | Fire Neural Network
 
-Upview.ai: Developed a full-stack application, integrated secure authentication and transaction processing, and optimized SEO processes.
-Fire Neural Network: Enhanced data processing pipelines and developed monitoring solutions using Golang.
-SenseHQ: Spearheaded enterprise software solutions, optimized API services, and coordinated project deliverables.
-FactSet: Optimized backend services, directed cloud migration, and mentored new team members.
-📫 How to reach me: LinkedIn, GitHub, Portfolio
+Improved forest fire prediction algorithms and engineered scalable data analysis solutions.
+Software Engineer | SenseHQ
 
-🎸 Fun Fact: In my free time, I enjoy playing the guitar and exploring new hiking trails.
+Led the development of data synchronization mechanisms, optimized API services, and mentored new team members.
+Software Engineer II | FactSet
+
+Directed cloud migration projects, optimized backend services, and implemented client-facing dashboards for real-time insights.
+📫 How to Reach Me
+Email: aishutk3@gmail.com
+LinkedIn: Aishwarya Trickangode Kaliyamardhanan
+GitHub: tkaishwarya
+Portfolio: tkaishwarya.github.io
+🎸 Fun Fact
+In my free time, I enjoy playing the guitar and exploring new hiking trails, always looking for the next adventure!
